@@ -33,4 +33,5 @@ When adding a new project to the listing, please copy and paste the template bel
       + Create the MultiFrame and FunctionalGroups classes.
       + Complete coverage except for a specific Phillips-specific case for which we don’t yet have a sample file.
     - Long discussion regarding test files management. WIP creating a unified testing resources.
+    - [Final presentation](https://docs.google.com/presentation/d/1dyBRn5jAl4mz7JHt7JcoT6RQY5qMbvvO57g4o1DgPsc/edit?usp=sharing)
 * **How to get involved**: Check out [Open DICOM](https://github.com/open-dicom) and the [DICOM discourse channel](https://nipy.discourse.group/t/test-files-repository-and-dicom-parsers-github-address/50/9).
