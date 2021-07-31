@@ -35,3 +35,10 @@ When adding a new project to the listing, please copy and paste the template bel
     - Long discussion regarding test files management. WIP creating a unified testing resources.
     - [Final presentation](https://docs.google.com/presentation/d/1dyBRn5jAl4mz7JHt7JcoT6RQY5qMbvvO57g4o1DgPsc/edit?usp=sharing)
 * **How to get involved**: Check out [Open DICOM](https://github.com/open-dicom) and the [DICOM discourse channel](https://nipy.discourse.group/t/test-files-repository-and-dicom-parsers-github-address/50/9).
+
+
+### ConnectivityML
+**Project url(s)**: https://github.com/yukaizou2015/connectivityml \
+**Contributors**: [Priya Kalra](https://github.com/pkalra-hgse), [Tal Pal Attia](https://github.com/tpatpa), [Debbie Burdinski](https://github.com/burdinskid13), [Pradyumna Lanka](https://github.com/pradlanka), [Yukai Zou](https://github.com/yukaizou2015) \
+**Description of project**: This project utilized resting-state functional connectivity data from the Human Connectome Project to explore whether individual differences in networks predict individual differences in cognition and demographics, and whether particular edges are more informative. Machine learning algorithms, including random forest classifiers and support vector machine were employed on edge weighting features derived from independent component analysis, and the results from random forest classifiers were interpreted using [SHAP values](https://christophm.github.io/interpretable-ml-book/shap.html#definition). \
+**How to get involved**: We are very keen on implementing new modeling approaches as well as getting our analyses reproducible and explanable. If you feel you can contribute, please do not hesitate to be in touch with us.
